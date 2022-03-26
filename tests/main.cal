@@ -1,0 +1,16 @@
+## Comment
+#:
+ : Multiline Comment
+ :#
+
+$var myVariable 0
+
+$for ($var i 0) (i < 5) (i++)
+    $print i
+$end
+
+$jmp myFunction 0 1 2
+
+$func myFunction arg0 arg1 arg2
+    $print arg0 arg1 arg2
+$end

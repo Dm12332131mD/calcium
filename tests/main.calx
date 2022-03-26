@@ -1,0 +1,12 @@
+:: Comment
+
+:main
+    var myVariable 0
+
+    for i in (jmp range 5)
+        print i
+        
+    jmp myFunction 0 1 2
+
+:myFunction arg0 arg1 arg2
+    print arg0 arg1 arg2
