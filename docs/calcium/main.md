@@ -1,4 +1,4 @@
-![Calcium](../images/calcium_full_330x64.png)
+![Calcium](docs/images/calcium_full_330x64.png)
 
 ---
 
